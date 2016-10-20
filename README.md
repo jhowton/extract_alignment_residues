@@ -1,5 +1,8 @@
-####This is a simple python3 script to extract particular sets of aligned residues
-from a fasta formatted alignment file####
+####This is a simple **python3** script to extract particular sets of aligned residues from a fasta formatted alignment file####
+
+Run as:
+
+`extract_alignment_residues alignment residues`
 
 There are **2** arguments:
     
